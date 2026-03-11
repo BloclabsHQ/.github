@@ -1,5 +1,5 @@
-<!-- HERO BANNER — replace with exported asset from bloclabs-brand-kit once available -->
-<!-- ![BlocLabs](https://raw.githubusercontent.com/BloclabsHQ/bloclabs-brand-kit/main/brand/logos/hero-banner.png) -->
+![BlocLabs](https://raw.githubusercontent.com/BloclabsHQ/brand-kit-template/main/assets/images/readme-header.png)
+
 
 # BlocLabs
 
