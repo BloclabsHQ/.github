@@ -1,4 +1,4 @@
-![BlocLabs](https://raw.githubusercontent.com/BloclabsHQ/brand-kit-template/main/assets/images/readme-header.png)
+![BlocLabs](assets/header.png)
 
 
 # BlocLabs
