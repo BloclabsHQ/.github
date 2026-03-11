@@ -1,5 +1,4 @@
-![BlocLabs](assets/header.png)
-
+![BlocLabs](../assets/header.png)
 
 # BlocLabs
 
